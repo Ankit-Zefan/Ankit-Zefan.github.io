@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student of Computer Science at [King Abdullah University of Science and Technology](https://cemse.kaust.edu.sa/) supervised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny). Before that, I received BSc in Computer Science from [Jilin University](https://www.jlu.edu.cn/), China.
+I am recently graduated Master's student in Mechanical Engineering under the <a href="https://openicv.svm.tsinghua.edu.cn/column/home">School of Vehicle and Mobility</a> at Tsinghua University, China, supervised by <a href="https://ieeexplore.ieee.org/author/37697654300">Prof. Yang Diange</a>. Before that, I received BTech. Degree in Mechanical Engineering from Vellore Institute of Technology, India.
+
 
 ## Research Interests
 
-- **Generative Models:** Image Generation, Video Generation, Sequence Generation
-- **Vision-Language:** Multi-Modal Comprehension and Generation
+- **Robotics:**  Embodied AI, Visuo-Tactile based Robot Learning and Dexterous Manipulation, Human-Robot Interaction (HRI), Multimodal Sensing and Robot Perception
+- **Autonomous Driving::** Visual Language Model (VLM) based Perception and Planning, Scene Understanding and Mapping 
+
 
 {% include_relative _includes/news.md %}
 
