@@ -1,8 +1,8 @@
 # Basic Information 
-title: Xiaoqian Shen
-position: KAUST CS PhD
-affiliation: KAUST
-email: xiaoqian.shen (at) kaust.edu.sa
+title: Ankit Kumar Shaw
+position: Graduate Student with M.Sc. Degree
+affiliation: School of Vehicle and Mobility, Tsinghua University
+email: shawak10 (at) mails.tsinghua.edu.cn, ankitkumarshawp@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,15 +12,15 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?hl=en&user=uToGtIwAAAAJ
-cv_link: assets/files/resume.pdf
-github_link: https://github.com/xiaoqian-shen
-linkedin: https://www.linkedin.com/in/xiaoqian-shen-759991264
-twitter: https://twitter.com/xiaoqian_shen
+google_scholar: https://scholar.google.com/citations?user=MbSyLggAAAAJ&hl=en
+cv_link: assets/files/ankit-cv.pdf
+github_link: https://github.com/Ankit-Zefan
+linkedin:  linkedin.com/in/ankit-kumar-shaw-赜帆-57005413a
+X: https://x.com/zefanankit
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.jpg
+avatar: ./assets/img/ankit.jpg
 #favicon: ./assets/img/favicon.png
 #favicon_dark: ./assets/img/favicon-dark.png
 
