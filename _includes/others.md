@@ -1,6 +1,6 @@
-## My World, Outside the Lab 
+## My World, Outside the Lab
 
-<strong>Travel & Food/strong>: Every city I visit leaves a fingerprint on my soul, and every dish is a dialogue—together, they turn each journey into a story flavored with culture, memory, and taste.
+<strong>Travel & Food</strong>: Every city I visit leaves a fingerprint on my soul, and every dish is a dialogue—together, they turn each journey into a story flavored with culture, memory, and taste.
 
 <html lang="en">
 <head>
