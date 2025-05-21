@@ -1,6 +1,6 @@
-## Others
+## My World, Outside the Lab 
 
-<strong>Travel & Photography</strong>: Wanderlust fuels my soul, and through the lens, I capture fleeting moments—whispers of light, echoes of time.
+<strong>Travel & Food/strong>: Every city I visit leaves a fingerprint on my soul, and every dish is a dialogue—together, they turn each journey into a story flavored with culture, memory, and taste.
 
 <html lang="en">
 <head>
